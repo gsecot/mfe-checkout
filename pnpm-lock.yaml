@@ -23,7 +23,7 @@ importers:
         specifier: ^4.15.5
         version: 4.15.5(eslint@8.57.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(typescript@5.5.4)
       '@commercelayer/sdk':
-        specifier: ^6.9.0
+        specifier: 6.9.0
         version: 6.9.0
       '@faker-js/faker':
         specifier: ^8.4.1
